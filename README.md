@@ -15,3 +15,5 @@ After removing the ASK_AMT variable from the features,  reducing the bins on bot
 ![neural_2.png](neural_2.png)
 
 ## Summary
+The ASK_AMT seems to be interfering with the performance of the model, eliminating from the features improved the accuracy score of the model.
+Importance of each features should be analyze to detail which of the features impact the performance of the model most.
